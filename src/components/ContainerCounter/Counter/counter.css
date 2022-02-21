@@ -1,0 +1,15 @@
+.wrapper {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 450px;
+}
+
+.button-body {
+	margin-top: 15px;
+}
+.btn {
+	margin: 0 10px 0 0;
+	font-size: 24px;
+}
